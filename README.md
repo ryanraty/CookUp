@@ -38,7 +38,7 @@ Join our community and share your culinary creations with the world!
 ## Current Status
 
 - **Recipes**: No recipes available at the moment.
-- **Challenges**: No challenges available at the moment.
+- **Challenges**: Cooking by color challenge is avable.
 - **Leaderboard**: 
     - **Top Chef**: Ryan Raty
 
