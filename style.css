@@ -3,8 +3,8 @@ p {
 }
 
 button {
-    background-color: blue;
+    background-color: blue !important;
     border: none;
     padding: 10px 20px;
-    color: white; /* Optional: to make the text visible */
+    color: white;
 }
