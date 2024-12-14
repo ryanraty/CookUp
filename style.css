@@ -2,9 +2,6 @@ p {
     color: blue;
 }
 
-button {
-    background-color: blue !important;
-    border: none;
-    padding: 10px 20px;
-    color: white;
+h3 {
+    color: green;
 }
