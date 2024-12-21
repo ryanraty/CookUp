@@ -1,5 +1,5 @@
 p {
-    color: black;
+    color: white;
 }
 
 h3 {
@@ -13,4 +13,8 @@ button {
 
 body {
     background-color: blue;
+}
+
+h1 {
+    color: white;
 }
